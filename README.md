@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dakshal Dalsania</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coding" height="300" width"200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" height="250" width"200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshal-d&label=Profile%20views&color=0e75b6&style=flat" alt="dakshal-d" /> </p>
 
