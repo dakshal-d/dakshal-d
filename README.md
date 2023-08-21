@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshal-d&label=Profile%20views&color=0e75b6&style=flat" alt="dakshal-d" /> </p>
 
-- 🌱 I’m currently learning **Three.js, DSA**
+- 🌱 I’m currently learning **React.js, DSA**
 
 - 💬 Ask me about **Mern Stack, Bootstrap, Tailwind css, HTML, CSS**
 
